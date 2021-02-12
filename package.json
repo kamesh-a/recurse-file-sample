@@ -10,5 +10,8 @@
     "fs-extra": "^9.1.0",
     "klaw": "^3.0.0",
     "through2": "^4.0.2"
+  },
+  "scripts": {
+    "copy": "node index.js"
   }
 }

@@ -13,8 +13,8 @@ const {
     basename
 } = require('path');
 
-const sourcePath = join(process.cwd(), 'Wallpapers');
-const destinationPath = join(process.cwd(), 'extracted-wallpapers');
+const sourcePath = join(process.cwd(), 'sourceFolder');
+const destinationPath = join(process.cwd(), 'destinationFolder');
 
 /**
  * Excludes directory, files which are not png|jpg

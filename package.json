@@ -1,0 +1,14 @@
+{
+  "name": "wallaper-recurse",
+  "version": "0.0.1",
+  "description": "recursing wallpers from sets",
+  "main": "index.js",
+  "author": "kamesh.arumugam@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "klaw": "^3.0.0",
+    "through2": "^4.0.2"
+  }
+}
